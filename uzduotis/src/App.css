@@ -20,7 +20,7 @@
 }
 #item-1 {
 
-  background-color: FFFFFF; 
+  background-color: #FFFFFF; 
   grid-row-start: 1;
   grid-column-start: 2;
 
@@ -40,7 +40,7 @@
 }
 #item-3 {
 
-  background-color: #CD88DF; 
+  background-color: #FFFFFF; 
   grid-row-start: 3;
   grid-column-start: 2;
 
@@ -50,7 +50,7 @@
 }
 #item-4 {
 
-  background-color: #9A7B9B; 
+  background-color: #FFFFFF; 
   grid-row-start: 4;
   grid-column-start: 2;
 
@@ -60,7 +60,7 @@
 }
 #item-5 {
 
-  background-color: #FD9D5F; 
+  background-color: #FFFFFF; 
   grid-row-start: 4;
   grid-column-start: 4;
 

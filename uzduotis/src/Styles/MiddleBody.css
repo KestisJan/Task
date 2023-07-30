@@ -1,0 +1,15 @@
+.middlebody-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    color: gray;
+}
+
+.middlebody-container .card {
+    margin: 1em;
+    height: 10em;
+    width: 15em;
+    background-color: aliceblue;
+    border-radius: 15px 15px;
+}
