@@ -1,5 +1,5 @@
 import React from 'react'
-import '../Styles/Footer.css';
+import '../Styles/Header.css';
 import InputBase from "@mui/material/InputBase"
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import NotificationsOutlinedIcon from '@mui/icons-material/NotificationsOutlined';
