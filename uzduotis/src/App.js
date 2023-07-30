@@ -4,7 +4,7 @@ import Header from './Components/Header';
 import TopBody from './Components/TopBody';
 import MiddleBody from './Components/MiddleBody';
 import Bar from './Components/Bar';
-import Doghnut from './Components/Doghnut';
+import Donut from './Components/Donut';
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
         <div id="item-2"><TopBody/></div>
         <div id="item-3"><MiddleBody/></div>
         <div id="item-4"><Bar/></div>
-        <div id="item-5"><Doghnut/></div>
+        <div id="item-5"><Donut/></div>
     </div>
   );
 }

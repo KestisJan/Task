@@ -1,0 +1,18 @@
+.Donut {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .label-half-donut {
+    font-style: Roboto;
+    font-size: 10pt;
+    font-weight: bold;
+    fill: rgb(255, 255, 255);
+  }
+  
+  .title {
+    font-size: 12pt;
+    font-weight: bold;
+    fill: rgb(255, 255, 255);
+  }
+  
