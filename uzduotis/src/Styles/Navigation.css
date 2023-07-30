@@ -1,0 +1,37 @@
+.navigation-container {
+    color: #ACACAC;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    padding: 1em;
+}
+
+.navigation-container .nav-middle {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+.navigation-container .nav-middle::after {
+    cursor: pointer;
+    background-color: red;
+}
+.navigation-container .nav-middle .nav-icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.7em;
+}
+
+.navigation-container .nav-bottom {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.navigation-container .nav-bottom .nav-icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.7em;
+}
+
